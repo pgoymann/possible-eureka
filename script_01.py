@@ -6,4 +6,4 @@ parser = argparse.ArgumentParser(description='An example python script, ready fo
 
 args = parser.parse_args()
 
-print("Hello, World!")
+print("Hello, Loosolab!")
